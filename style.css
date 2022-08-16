@@ -1,0 +1,28 @@
+body, h1, ul{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    background-color: gray;
+    width: 100%;
+}
+
+nav form{
+    text-align: center;
+}
+
+nav ul li a{
+    display: inline-block;
+    width: 100%;
+}
+
+img {
+    width: 250pt;
+    height: 250pt;
+}
+
+footer{
+    background-color: gray;
+}
